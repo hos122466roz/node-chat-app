@@ -10,3 +10,12 @@ app.use(express.static(publicPath))
 app.listen(port,()=>{
     console.log(`server is up on ${port }`)
 })
+app.listen(port,()=>{
+    console.log(`server is up on ${port }`)
+})
+app.listen(port,()=>{
+    console.log(`server is up on ${port }`)
+})
+app.listen(port,()=>{
+    console.log(`server is up on ${port }`)
+})
